@@ -3,13 +3,23 @@
 - [GitHub](https://github.com/pedroseromenho/ressources/#GitHub)
 - [HTML](https://github.com/pedroseromenho/ressources/#HTML)
 - [CSS](https://github.com/pedroseromenho/ressources/#CSS)
-- [Références](https://github.com/pedroseromenho/ressources/#Références)
+- [Bootstrap]((https://github.com/pedroseromenho/ressources/#Bootstrap)
+- [References](https://github.com/pedroseromenho/ressources/#References)
 
 ## GitHub
 ## HTML
 ## CSS
 
-## Références
+## Bootstrap
+
+- [Bootstrap](http://getbootstrap.com), officiel website. (EN)
+- [Icons](http://bootstrapicons.com) for Bootstrap. (EN)
+- [Alerts](https://www.w3schools.com/bootstrap/bootstrap_alerts.asp). (EN)
+- [Tables](https://www.w3schools.com/bootstrap/bootstrap_tables.asp) on Bootstrap. (EN)
+- [Buttons](https://www.w3schools.com/bootstrap/bootstrap_buttons.asp) for Bootstrap. (EN)
+- [Glyficons](https://getbootstrap.com/docs/3.3/components/) for Bootstrap. (EN)
+
+## References
 
 - [Hallointer](http://hallointer.net/), is a platform for contemporary Internet. Content, aesthetics and function are hard to find at the same platforms, accordingly the idea is to create a pool of impressions to get many different views on the Internet. (EN)
 
