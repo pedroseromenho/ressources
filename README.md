@@ -3,7 +3,7 @@
 - [GitHub](https://github.com/pedroseromenho/ressources/#GitHub)
 - [HTML](https://github.com/pedroseromenho/ressources/#HTML)
 - [CSS](https://github.com/pedroseromenho/ressources/#CSS)
-- [Bootstrap]((https://github.com/pedroseromenho/ressources/#Bootstrap)
+- [Bootstrap](https://github.com/pedroseromenho/ressources/#Bootstrap)
 - [References](https://github.com/pedroseromenho/ressources/#References)
 
 ## GitHub
