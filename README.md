@@ -30,3 +30,17 @@
 - [Another Code Project](https://anothercodeproject.eu/), is a studio for creative and functional concepts, design and code of anything web-related. (EN)
 
 - [Tristan Bagot](https://www.tristanbagot.com/). Digital design and creative coding. (EN)
+
+## Youtube Channels
+
+### English
+
+- [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w): General web dev stuff (front-end, back-end, frameworks, databases, app deployment,...)
+- [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ/): Tech talks about programming (including web dev)
+- [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/): Javascript only
+- [Wes Bos](https://www.youtube.com/user/wesbos/): Mostly front-end (Javascript, CSS, front-end frameworks,...)
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb/): Web dev (front-end + back-end)
+
+### French
+
+- [Grafikart](https://www.youtube.com/user/grafikarttv/): Web dev (front-end + back-end)
