@@ -7,9 +7,14 @@
 - [References](https://github.com/pedroseromenho/ressources/#References)
 - [Youtube Channels](#youtube-channels)
 
+## Learning
+
+- [Labex](https://labex.io/)
+
 ## GitHub
 ## HTML
 
+- [W3C Validator](https://validator.w3.org/#validate_by_input): Official W3C HTML validator
 - [Templated.co](https://templated.co/): Templates
 - [UX - User Flows](https://uxdesign.cc/the-biggest-wtf-in-design-right-now-87139f367d66)
 - [Hero Patterns](http://www.heropatterns.com/): Free SVG patterns
@@ -18,6 +23,9 @@
 
 - [Keyframes.app](https://keyframes.app/): Easily create CSS animations
 - [Daily CSS Design](https://dailycssdesign.com/): A web designer creates one responsive design per day
+- [Coolors](https://coolors.co/): Color palettes generator
+- [CSS-Tricks](https://css-tricks.com/)
+- [Gradient animator](https://www.gradient-animator.com/)
 
 ## Bootstrap
 
@@ -29,6 +37,7 @@
 
 ## References
 
+- [Dev.to](https://dev.to/)
 - [Hallointer](http://hallointer.net/), is a platform for contemporary Internet. Content, aesthetics and function are hard to find at the same platforms, accordingly the idea is to create a pool of impressions to get many different views on the Internet. (EN)
 - [Brutalist Websites](http://brutalistwebsites.com/). Brutalism can be seen as a reaction by a younger generation to the lightness, optimism, and frivolity of today's web design. (EN)
 - [Awwwards](https://www.awwwards.com/), the awards that recognize the talent and effort of the best web designers, developers and agencies in the world. (EN)
@@ -48,3 +57,7 @@
 ### French
 
 - [Grafikart](https://www.youtube.com/user/grafikarttv/): Web dev (front-end + back-end)
+
+## Software
+
+- [Vectr](https://vectr.com/): Free Vector Graphics Software
