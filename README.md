@@ -1,11 +1,12 @@
 # Ressources
 
-- [GitHub](#GitHub)
-- [HTML](#HTML)
-- [CSS](#CSS)
-- [Bootstrap](#Bootstrap)
-- [SASS](#SASS)
-- [References](#References)
+- [Learning](#learning)
+- [GitHub](#github)
+- [HTML](#html)
+- [CSS](#css)
+- [Bootstrap](#bootstrap)
+- [SASS](#sass)
+- [References](#references)
 - [Youtube Channels](#youtube-channels)
 
 ## Learning
