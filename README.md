@@ -4,10 +4,7 @@
 - [HTML](https://github.com/pedroseromenho/ressources/#HTML)
 - [CSS](https://github.com/pedroseromenho/ressources/#CSS)
 - [Bootstrap](https://github.com/pedroseromenho/ressources/#Bootstrap)
-<<<<<<< HEAD
 - [SASS](https://github.com/pedroseromenho/ressources/#SASS)
-=======
->>>>>>> d3935b45ee4bdde17fe283f29e081cb2907fd51b
 - [References](https://github.com/pedroseromenho/ressources/#References)
 
 ## GitHub
