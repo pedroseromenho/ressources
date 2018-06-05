@@ -3,8 +3,8 @@
 - [GitHub](https://github.com/pedroseromenho/ressources/#GitHub)
 - [HTML](https://github.com/pedroseromenho/ressources/#HTML)
 - [CSS](https://github.com/pedroseromenho/ressources/#CSS)
-- [Bootstrap]((https://github.com/pedroseromenho/ressources/#Bootstrap)
-- [SASS]((https://github.com/pedroseromenho/ressources/#SASS)
+- [Bootstrap](https://github.com/pedroseromenho/ressources/#Bootstrap)
+- [SASS](https://github.com/pedroseromenho/ressources/#SASS)
 - [References](https://github.com/pedroseromenho/ressources/#References)
 
 ## GitHub
@@ -17,9 +17,13 @@
 
 ## SASS
 
+- [Introduction](https://docs.google.com/presentation/d/1GFK1HjajFu8Hc3rLt9iIiv9hrgcVEEvTnFQmEporFxk/edit#slide=id.g35f391192_04) à SASS. (FR)
 - [Cascade.io](https://la-cascade.io/tag/sass/), guide complet pour l'utilisation du SASS. (FR)
-
 - [Modules SASS](http://sass-lang.com/documentation/Sass/Script/Functions.html), liste complète de ses fonctions. (EN)
+- [The SASS way](http://www.thesassway.com/beginner), Beginner Guides & Tutorials on Sass and Compass. (EN)
+- [SASS Guide](https://speakerdeck.com/anotheruiguy/sass-101-a-newbs-guide). Nesting, parent/selector reference, variables, extends and mixins. Then progress into Sass Scripting like, operations, functions and directives.
+
+
 
 ## References
 
