@@ -1,16 +1,16 @@
 # Ressources
 
-- [Learning](#learning)
-- [GitHub](#github)
-- [HTML](#html)
-- [CSS](#css)
-- [Bootstrap](#bootstrap)
-- [SASS](#sass)
-- [Javascript](#javascript)
-- [References](#references)
-- [Youtube Channels](#youtube-channels)
+1. [Learning](#learning)
+2. [GitHub](#github)
+3. [HTML](#html)
+4. [CSS](#css)
+5. [Bootstrap](#bootstrap)
+6. [SASS](#sass)
+7. [Javascript](#javascript)
+8. [References](#references)
+9. [Youtube Channels](#youtube-channels)
 
-## Learning
+## 1.Learning
 
 - [Labex](https://labex.io/)
 - [User Centered Design Approach](https://blog.prototypr.io/introduction-to-user-centered-design-approach-b0770974789e) :uk:
@@ -20,18 +20,18 @@
 - [UX Design](https://uxdesign.cc/the-biggest-wtf-in-design-right-now-87139f367d66): The biggest WTF in design right now. :uk:
 
 
-## GitHub
+## 2.GitHub
 
 -[Configuration DNS Provider](https://help.github.com/articles/setting-up-an-apex-domain/#configuring-a-records-with-your-dns-provider) :uk:
 
-## HTML
+## 3.HTML
 
 - [W3C Validator](https://validator.w3.org/#validate_by_input): Official W3C HTML validator
 - [Templated.co](https://templated.co/): Templates
 - [UX - User Flows](https://uxdesign.cc/the-biggest-wtf-in-design-right-now-87139f367d66)
 - [Hero Patterns](http://www.heropatterns.com/): Free SVG patterns
 
-## CSS
+## 4.CSS
 
 - [Keyframes.app](https://keyframes.app/): Easily create CSS animations
 - [Daily CSS Design](https://dailycssdesign.com/): A web designer creates one responsive design per day
@@ -42,12 +42,12 @@
 - [Semantic Framework](https://semantic-ui.com/), that helps create beautiful, responsive layouts using human-friendly HTML.
 - [Hero Patterns](http://www.heropatterns.com): a collection of repeatable SVG background patterns for you to use on your web projects.
 
-## Bootstrap
+## 5.Bootstrap
 
 - [Bootstrap](http://getbootstrap.com), officiel website. :uk:
 - [DesignShack - 20 resources for Bootstrap devs](https://designshack.net/articles/css/20-awesome-resources-for-twitter-bootstrap-lovers/)
 
-## SASS
+## 6.SASS
 
 - [Introduction](https://docs.google.com/presentation/d/1GFK1HjajFu8Hc3rLt9iIiv9hrgcVEEvTnFQmEporFxk/edit#slide=id.g35f391192_04) à SASS. (FR)
 - [Cascade.io](https://la-cascade.io/tag/sass/), guide complet pour l'utilisation du SASS. :fr:
@@ -55,11 +55,11 @@
 - [The SASS way](http://www.thesassway.com/beginner), Beginner Guides & Tutorials on Sass and Compass. :uk:
 - [SASS Guide](https://speakerdeck.com/anotheruiguy/sass-101-a-newbs-guide). Nesting, parent/selector reference, variables, extends and mixins. Then progress into Sass Scripting like, operations, functions and directives.
 
-## Javascript
+## 7.Javascript
 
 - [MDN Web Docs](https://developer.mozilla.org/fr/docs/Web/JavaScript): javascript documentation. :fr:
 
-## References
+## 8.References
 
 - [Dev.to](https://dev.to/) :uk:
 - [Hallointer](http://hallointer.net/), is a platform for contemporary Internet. Content, aesthetics and function are hard to find at the same platforms, accordingly the idea is to create a pool of impressions to get many different views on the Internet. :uk:
@@ -68,7 +68,7 @@
 - [Another Code Project](https://anothercodeproject.eu/), is a studio for creative and functional concepts, design and code of anything web-related. :uk:
 - [Tristan Bagot](https://www.tristanbagot.com/). Digital design and creative coding. :uk:
 
-## Youtube Channels
+## 9.Youtube Channels
 
 ### English :uk:
 
