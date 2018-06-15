@@ -1,14 +1,14 @@
 # Ressources
 
-1. [Learning](#learning)
-2. [GitHub](#github)
-3. [HTML](#html)
-4. [CSS](#css)
-5. [Bootstrap](#bootstrap)
-6. [SASS](#sass)
-7. [Javascript](#javascript)
-8. [References](#references)
-9. [Youtube Channels](#youtube-channels)
+1. [Learning](#1-learning)
+2. [GitHub](#2-github)
+3. [HTML](#3-html)
+4. [CSS](#4-css)
+5. [Bootstrap](#5-bootstrap)
+6. [SASS](#6-sass)
+7. [Javascript](#7-javascript)
+8. [References](#8-references)
+9. [Youtube Channels](#9-youtube-channels)
 
 ## 1. Learning
 
